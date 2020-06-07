@@ -19,7 +19,7 @@ Using sequential model from Keras framework by having few Dense Layer with regul
 ## Metric
 * Confusion matrix
 
-![](img/loss_learning_curve.JPG)
+![](img/confusion_matrix.JPG)
 
 ## Future Work
 * Upload complete .ipynb file
