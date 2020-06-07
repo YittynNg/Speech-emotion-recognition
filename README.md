@@ -1,14 +1,29 @@
 # Speech-emotion-recognition
-Machine Learning Assignment
+
+## Building Models
+Using sequential model from Keras framework by having few Dense Layer with regularizer and Dropout Layer to prevent from overfitting.
+
+![](img/model_summary.JPG)
 
 ## Result
-* Accuracy: 0.9745
-* Validation accuracy: 0.8611
+* Accuracy: **97%**
+* Validation accuracy: **86%**
+
+![](img/accuracy_learning_curve.JPG)
+
 * Loss: 0.3079
 * Validation loss: 0.6972
 
-## Future work
+![](img/loss_learning_curve.JPG)
+
+## Metric
+* Confusion matrix
+
+![](img/loss_learning_curve.JPG)
+
+## Future Work
 * Upload complete .ipynb file
 * Better Exploratory Data Analysis (EDA)
 * Validate data
+* User input
 * Group categories
